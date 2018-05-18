@@ -36,4 +36,8 @@ public class BoardServiceTest {
 		Board board = boardService.getBoardDetail(141);
 		assertThat(board, notNullValue());
 	}
+	
+	public void test() {
+		
+	}
 }
